@@ -1,6 +1,6 @@
 ## 👋 Who am I
 
-Alex McGonigle a Cloud Data and AI Consultant working across a global team @ [Microsoft](https://github.com/Microsoft)
+Alex McGonigle or @GrannyProgramming a Cloud Data and AI Consultant working across a global team @ [Microsoft](https://github.com/Microsoft)
 
 ## Microsoft Certified
 
