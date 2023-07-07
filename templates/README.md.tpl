@@ -10,10 +10,10 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-#### 📜 My recent blog posts
-{{range rss "https://www.themlopspundit.com/posts/index.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
+# #### 📜 My recent blog posts
+# {{range rss "https://www.themlopspundit.com/posts/index.xml" 5}}
+# - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+# {{- end}}
 
 #### 👯 Check out some of my recent followers
 {{range followers 3}}
