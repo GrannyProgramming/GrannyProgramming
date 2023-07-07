@@ -4,9 +4,9 @@ Alex McGonigle or @GrannyProgramming a Cloud Data and AI Consultant working acro
 
 ## Microsoft Certified
 
-[<img src="https://images.credly.com/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" width="200">](https://www.credly.com/users/alex-mcgonigle/badges)
-[<img src="https://images.credly.com/size/680x680/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" width="200">](https://www.credly.com/users/alex-mcgonigle/badges)
-[<img src="https://images.credly.com/size/680x680/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" width="200">](https://www.credly.com/users/alex-mcgonigle/badges)
+[<img src="https://images.credly.com/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" width="250">](https://www.credly.com/users/alex-mcgonigle/badges)
+[<img src="https://images.credly.com/size/680x680/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" width="250">](https://www.credly.com/users/alex-mcgonigle/badges)
+[<img src="https://images.credly.com/size/680x680/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" width="250">](https://www.credly.com/users/alex-mcgonigle/badges)
 
 ## 🔧 Technologies & Tools
 
