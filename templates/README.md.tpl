@@ -1,11 +1,6 @@
 ## 👋 Who am I
-Hey there! I'm Alex McGonigle, but you might know me as @GrannyProgramming. As a Cloud Data and AI Consultant at Microsoft, I've been in the thick of shaping our MLOps approach and creating comprehensive machine learning solutions.
 
-I've had the privilege of leading MLOps consulting for big-name Fortune-500 clients, helping Microsoft bring in about $27m in delivery value to date (as of July '23). Not too shabby, right?
-
-You know how Gartner said that 80% of AI projects will feel like wizardry that doesn't scale in an organization? Well, I'm all about dispelling that magic and replacing it with something better. I focus on streamlining AI systems, reducing technical debt with Continuous Delivery (CD), and introducing new concepts like Continuous Training (CT), Monitoring, and Observability.
-
-But I'm not just interested in efficiency. I'm also passionate about fairness, explainability, and security in AI systems. My goal? To build MLOps systems that empower companies and individuals to deliver their AI promises consistently and transparently.
+Hi there! I'm Alex, but you might know me as @GrannyProgramming from my work as a Cloud Data and AI Consultant at Microsoft. I spend my days delving into the world of MLOps and shaping AI strategies for some pretty big-name clients. I'm all about making AI transparent and efficient - no more wizardry, just solid science. I have a real soft spot for creating robust MLOps systems that tick all the right boxes: fairness, explainability, security... you name it! It's my passion to help companies deliver on their AI promises without a hitch. AI doesn't have to be mysterious magic, and I'm here to prove it!
 
 ## Microsoft Certified
 
@@ -13,7 +8,7 @@ But I'm not just interested in efficiency. I'm also passionate about fairness, e
 [<img src="https://images.credly.com/size/680x680/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" width="250">](https://www.credly.com/users/alex-mcgonigle/badges)
 [<img src="https://images.credly.com/size/680x680/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" width="250">](https://www.credly.com/users/alex-mcgonigle/badges)
 
-## 🌱 I’m currently learning 
+#### 🌱 I’m currently learning 
 
 - All about LLM's (Large Language Models) and how to use them in production
 #### 👨‍💻 Check out what I'm currently working on
@@ -40,10 +35,9 @@ But I'm not just interested in efficiency. I'm also passionate about fairness, e
 | Business Intelligence (BI) Tools  | [![PowerBI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi)](https://powerbi.microsoft.com/) [![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)](https://www.tableau.com/) |
 | Monitoring                        | [![Azure_Monitor](https://img.shields.io/badge/-Azure%20Monitor-333333?style=flat&logo=azuredevops)](https://azure.microsoft.com/en-us/services/monitor/) |
 
+## 🧮 Some stats
 
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrannyProgramming&count_private=true&theme=dark&show_icons=true)](https://github.com/GrannyProgramming)
-
-## 🧮 Some stats
 
 [![GrannyProgramming's Trophy](https://github-profile-trophy.vercel.app/?username=GrannyProgramming&theme=onedark)](https://github.com/GrannyProgramming)
 
@@ -61,8 +55,7 @@ Say Hello, I don't bite!
 
 🙌 Thank you for visiting my profile!
 
+Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 [![GitHub profile views](https://komarev.com/ghpvc/?username=GrannyProgramming&logo=github&style=flat-square)](https://github.com/GrannyProgramming)
 [![GitHub followers](https://img.shields.io/github/followers/GrannyProgramming?logo=github&style=flat-square)](https://github.com/GrannyProgramming)
-
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 <!-- comments will be preserved -->
