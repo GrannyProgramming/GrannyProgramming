@@ -1,6 +1,6 @@
 ## 👋 Who am I
 
-Cloud Data and AI Consultant @ [Microsoft](https://github.com/Microsoft)
+Cloud Data and AI Consultant working across a global team @ [Microsoft](https://github.com/Microsoft)
 
 Microsoft Certified
 
