@@ -1,6 +1,6 @@
 ## 👋 Who am I
 
-Senior Software Engineer @ [Microsoft](https://github.com/Microsoft)
+Cloud Data and AI Consultant @ [Microsoft](https://github.com/Microsoft)
 
 Microsoft Certified
 
@@ -9,7 +9,7 @@ Microsoft Certified
 [<img src="https://images.credly.com/size/680x680/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" width="300">](https://www.credly.com/users/alex-mcgonigle/badges)
 
 
-[![Dariusz's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrannyProgramming&count_private=true&theme=dark&show_icons=true)](https://github.com/GrannyProgramming)
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrannyProgramming&count_private=true&theme=dark&show_icons=true)](https://github.com/GrannyProgramming)
 
 ## 🧮 Some stats
 
