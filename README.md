@@ -1,53 +1,89 @@
-### Hi there 👋
+## 👋 Who am I
 
-#### 👷 Check out what I'm currently working on
+Senior Software Engineer @ [Microsoft](https://github.com/Microsoft)
 
-- [GrannyProgramming/ds-aml-mlops](https://github.com/GrannyProgramming/ds-aml-mlops) - Azure Machine Learning - MLOps Python SDKv2 (today)
-- [GrannyProgramming/AlexMcGonigle](https://github.com/GrannyProgramming/AlexMcGonigle) - GH Spotlight repo (today)
+MVP Alumni
 
-#### 🌱 My latest projects
-
-- [GrannyProgramming/AlexMcGonigle](https://github.com/GrannyProgramming/AlexMcGonigle) - GH Spotlight repo
-- [GrannyProgramming/ds-aml-mlops](https://github.com/GrannyProgramming/ds-aml-mlops) - Azure Machine Learning - MLOps Python SDKv2
-- [GrannyProgramming/Intrusion-Detection-using-Deep-Learning-and-Machine-Learning](https://github.com/GrannyProgramming/Intrusion-Detection-using-Deep-Learning-and-Machine-Learning) - Network related services, programs and applications are developing greatly, however, network security breaches are also developing with them. Network security is an evolving, challenging and a critical task. It is essential that there is a system in place to identify any harmful movement happening in network. An Intrusion detection system (IDS) has become the prerequisite software addressing cyber security in the modern era. Especially, with the greater complexity of advanced cyber-attacks and as such the uncertainty surrounding the detection of the types of attacks. This thesis proposes a novel approach using an ensemble of K-Means and Gaussian Mixture clustering combined with a deep neural network (DNN) algorithm. When compared with traditional artificial neural network’s (ANN’s) used within an IDS, our approach implements modern advances in deep learning such as initialising the parameters through the unsupervised pre-training clustering ensemble, therefore improving the detection accuracy. We hope our results will show that the proposed approach can provide a real-time response to the attack with a greatly increased detection ratio for false flags.
-
-#### 🔭 Latest releases I've contributed to
+[<img src="https://mvp.microsoft.com/Content/Images/MVP_Reconnect_Logo_Blue_Color_RGB.png" width="300">](https://mvp.microsoft.com/en-us/PublicProfile/4030608)
 
 
-#### 📓 Gists I wrote
+[![Dariusz's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrannyProgramming&count_private=true&theme=dark&show_icons=true)](https://github.com/GrannyProgramming)
 
+## 👨‍💻 Open Source projects
 
-#### ⭐ Recent Stars
+### [`actionlint` GitHub Action](https://github.com/raven-actions/actionlint)
 
-- [ouphi/yolov8-with-azureml](https://github.com/ouphi/yolov8-with-azureml) -  (1 day ago)
-- [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.  (1 day ago)
-- [michhar/darknet-azure-vm-ubuntu-18.04](https://github.com/michhar/darknet-azure-vm-ubuntu-18.04) - Deploy an NVIDIA GPU-backed virtual machine in Azure for creating YOLO models.  (1 day ago)
-- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language. (1 day ago)
-- [cdw/deepspeed_in_aml](https://github.com/cdw/deepspeed_in_aml) - Create an environment within AzureML that supports Deepspeed training, execute some example training processes thereon. (1 day ago)
-- [GrannyProgramming/ds-aml-mlops](https://github.com/GrannyProgramming/ds-aml-mlops) - Azure Machine Learning - MLOps Python SDKv2 (1 day ago)
-- [GrannyProgramming/azureml-examples](https://github.com/GrannyProgramming/azureml-examples) - Official community-driven Azure Machine Learning examples, tested with GitHub Actions. (2 days ago)
-- [whylabs/langkit](https://github.com/whylabs/langkit) - LangKit is an open-source text metrics toolkit for monitoring language models. (1 week ago)
-- [bstollnitz/ml-template](https://github.com/bstollnitz/ml-template) - Template for machine learning projects. (2 weeks ago)
-- [Merlion-Crew/feature-store](https://github.com/Merlion-Crew/feature-store) - Feature Store Examples - using Feast, Feathr etc. (4 months ago)
+[![GitHub - marketplace](https://img.shields.io/badge/marketplace-actionlint-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/actionlint)
+[![GitHub - latest release](https://img.shields.io/github/v/release/raven-actions/actionlint?style=flat-square)](https://github.com/raven-actions/actionlint/releases/latest)
+[![GitHub - latest release date](https://img.shields.io/github/release-date/raven-actions/actionlint?style=flat-square&label=latest%20release%20date)](https://github.com/raven-actions/actionlint/releases/latest)
+[![GitHub - license](https://img.shields.io/github/license/raven-actions/actionlint?style=flat-square)](https://github.com/raven-actions/actionlint/blob/main/LICENSE)
+[![GitHub - stars](https://img.shields.io/github/stars/raven-actions/actionlint?style=flat-square)](https://github.com/raven-actions/actionlint)
 
-#### ❤️ These awesome people sponsor me (thank you!)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GrannyProgramming&repo=ghaction-actionlint&theme=dark)](https://github.com/raven-actions/actionlint)
 
+### [`debug` GitHub Action](https://github.com/raven-actions/debug)
 
-#### 👯 Check out some of my recent followers
+[![GitHub - marketplace](https://img.shields.io/badge/marketplace-debug--github--action-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/debug-github-action)
+[![GitHub - latest release](https://img.shields.io/github/v/release/raven-actions/debug?style=flat-square)](https://github.com/raven-actions/debug/releases/latest)
+[![GitHub - latest release date](https://img.shields.io/github/release-date/raven-actions/debug?style=flat-square&label=latest%20release%20date)](https://github.com/raven-actions/debug/releases/latest)
+[![GitHub - license](https://img.shields.io/github/license/raven-actions/debug?style=flat-square)](https://github.com/raven-actions/debug/blob/main/LICENSE)
+[![GitHub - stars](https://img.shields.io/github/stars/raven-actions/debug?style=flat-square)](https://github.com/raven-actions/debug)
 
-- [FaramarzKowsari](https://github.com/FaramarzKowsari)
-- [dirambora](https://github.com/dirambora)
-- [SahrActon](https://github.com/SahrActon)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GrannyProgramming&repo=ghaction-dump-contexts&theme=dark)](https://github.com/raven-actions/debug)
 
-#### 💬 Feedback
+### [ChatGPT Pre-Commit Hooks](https://github.com/GrannyProgramming/chatgpt-pre-commit-hooks)
 
-Say Hello, I don't bite!
+[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&style=flat-square)](https://github.com/pre-commit/pre-commit)
+[![PyPI - version](https://img.shields.io/pypi/v/chatgpt-pre-commit-hooks?style=flat-square)](https://pypi.org/project/chatgpt-pre-commit-hooks)
+[![PyPI - downloads](https://img.shields.io/pypi/dm/chatgpt-pre-commit-hooks?style=flat-square)](https://pypistats.org/packages/chatgpt-pre-commit-hooks)
+[![GitHub - latest release date](https://img.shields.io/github/release-date/GrannyProgramming/chatgpt-pre-commit-hooks?style=flat-square&label=latest%20release%20date)](https://github.com/GrannyProgramming/chatgpt-pre-commit-hooks/releases/latest)
+[![GitHub - license](https://img.shields.io/github/license/GrannyProgramming/chatgpt-pre-commit-hooks?style=flat-square)](https://github.com/GrannyProgramming/chatgpt-pre-commit-hooks/blob/main/LICENSE)
+[![GitHub - stars](https://img.shields.io/github/stars/GrannyProgramming/chatgpt-pre-commit-hooks?style=flat-square)](https://github.com/GrannyProgramming/chatgpt-pre-commit-hooks)
 
-#### 📫 How to reach me
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GrannyProgramming&repo=chatgpt-pre-commit-hooks&theme=dark)](https://github.com/GrannyProgramming/chatgpt-pre-commit-hooks)
 
-- Twitter: https://twitter.com/...
-- Fediverse: https://mastodon.social/@...
-- Blog: https://...
+### `mkdocs-file-filter-plugin`
 
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
+[![PyPI - version](https://img.shields.io/pypi/v/mkdocs-file-filter-plugin?style=flat-square)](https://pypi.org/project/mkdocs-file-filter-plugin)
+[![PyPI - downloads](https://img.shields.io/pypi/dm/mkdocs-file-filter-plugin?style=flat-square)](https://pypistats.org/packages/mkdocs-file-filter-plugin)
+[![GitHub - latest release date](https://img.shields.io/github/release-date/GrannyProgramming/mkdocs-file-filter-plugin?style=flat-square&label=latest%20release%20date)](https://github.com/GrannyProgramming/mkdocs-file-filter-plugin/releases/latest)
+[![GitHub - license](https://img.shields.io/github/license/GrannyProgramming/mkdocs-file-filter-plugin?style=flat-square)](https://github.com/GrannyProgramming/mkdocs-file-filter-plugin/blob/main/LICENSE)
+[![GitHub - stars](https://img.shields.io/github/stars/GrannyProgramming/mkdocs-file-filter-plugin?style=flat-square)](https://github.com/GrannyProgramming/mkdocs-file-filter-plugin)
 
+`mkdocs-file-filter-plugin` allows you to exclude/include files using Unix-style wildcards (`globs`), regular expressions (`regexes`), `.mkdocsignore` (gitignore-style file), or Markdown/FrontMatter `tags` (or custom property) metadata. In addition, it supports navigation filtering (`nav:`) based on excludes and external config files with patterns/rules that can be injected based on environmental variables to serve outputs based on different environments, audiences, etc.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GrannyProgramming&repo=mkdocs-file-filter-plugin&theme=dark)](https://github.com/GrannyProgramming/mkdocs-file-filter-plugin)
+
+### [`gitleaks-scanner` GitHub Action](https://github.com/GrannyProgramming/github-action-gitleaks)
+
+[![GitHub - marketplace](https://img.shields.io/badge/marketplace-gitleaks--scanner-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/gitleaks-scanner)
+[![GitHub - latest release](https://img.shields.io/github/v/release/GrannyProgramming/github-action-gitleaks?style=flat-square)](https://github.com/GrannyProgramming/github-action-gitleaks/releases/latest)
+[![GitHub - latest release date](https://img.shields.io/github/release-date/GrannyProgramming/github-action-gitleaks?style=flat-square&label=latest%20release%20date)](https://github.com/GrannyProgramming/github-action-gitleaks/releases/latest)
+[![GitHub - license](https://img.shields.io/github/license/GrannyProgramming/github-action-gitleaks?style=flat-square)](https://github.com/GrannyProgramming/github-action-gitleaks/blob/main/LICENSE)
+[![GitHub - stars](https://img.shields.io/github/stars/GrannyProgramming/github-action-gitleaks?style=flat-square)](https://github.com/GrannyProgramming/github-action-gitleaks)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GrannyProgramming&repo=github-action-gitleaks&theme=dark)](https://github.com/GrannyProgramming/github-action-gitleaks)
+
+## 🧮 Some stats
+
+[![GrannyProgramming's Trophy](https://github-profile-trophy.vercel.app/?username=GrannyProgramming&theme=onedark)](https://github.com/GrannyProgramming)
+
+[![GrannyProgramming's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrannyProgramming&langs_count=10&theme=dark&layout=compact)](https://github.com/GrannyProgramming)
+
+[![GitHub profile views](https://komarev.com/ghpvc/?username=GrannyProgramming&logo=github&style=flat-square)](https://github.com/GrannyProgramming)
+[![GitHub followers](https://img.shields.io/github/followers/GrannyProgramming?logo=github&style=flat-square)](https://github.com/GrannyProgramming)
+
+<!--
+**GrannyProgramming/GrannyProgramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
