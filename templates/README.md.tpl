@@ -4,9 +4,9 @@ Alex McGonigle or @GrannyProgramming a Cloud Data and AI Consultant working acro
 
 ## Microsoft Certified
 
-[<img src="https://images.credly.com/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" width="300">](https://www.credly.com/users/alex-mcgonigle/badges)
-[<img src="https://images.credly.com/size/680x680/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" width="300">](https://www.credly.com/users/alex-mcgonigle/badges)
-[<img src="https://images.credly.com/size/680x680/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" width="300">](https://www.credly.com/users/alex-mcgonigle/badges)
+[<img src="https://images.credly.com/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" width="200">](https://www.credly.com/users/alex-mcgonigle/badges)
+[<img src="https://images.credly.com/size/680x680/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" width="200">](https://www.credly.com/users/alex-mcgonigle/badges)
+[<img src="https://images.credly.com/size/680x680/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" width="200">](https://www.credly.com/users/alex-mcgonigle/badges)
 
 ## 🔧 Technologies & Tools
 
@@ -34,7 +34,7 @@ Alex McGonigle or @GrannyProgramming a Cloud Data and AI Consultant working acro
 ## 🌱 I’m currently learning 
 
 - All about LLM's (Large Language Models) and how to use them in production
-#### 👷 Check out what I'm currently working on
+#### 👨‍💻 Check out what I'm currently working on
 
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
@@ -52,9 +52,10 @@ Alex McGonigle or @GrannyProgramming a Cloud Data and AI Consultant working acro
 [![GrannyProgramming's Trophy](https://github-profile-trophy.vercel.app/?username=GrannyProgramming&theme=onedark)](https://github.com/GrannyProgramming)
 
 [![GrannyProgramming's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrannyProgramming&langs_count=10&theme=dark&layout=compact)](https://github.com/GrannyProgramming)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GrannyProgramming&theme=dark)](https://git.io/streak-stats)
+[![GrannyProgramming's github activity graph](https://activity-graph.herokuapp.com/graph?username=GrannyProgramming&theme=github)](https://github.com/GrannyProgramming)
 
-[![GitHub profile views](https://komarev.com/ghpvc/?username=GrannyProgramming&logo=github&style=flat-square)](https://github.com/GrannyProgramming)
-[![GitHub followers](https://img.shields.io/github/followers/GrannyProgramming?logo=github&style=flat-square)](https://github.com/GrannyProgramming)
+
 
 #### 💬 Feedback
 Say Hello, I don't bite!
@@ -68,4 +69,6 @@ Say Hello, I don't bite!
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 
+[![GitHub profile views](https://komarev.com/ghpvc/?username=GrannyProgramming&logo=github&style=flat-square)](https://github.com/GrannyProgramming)
+[![GitHub followers](https://img.shields.io/github/followers/GrannyProgramming?logo=github&style=flat-square)](https://github.com/GrannyProgramming)
 <!-- comments will be preserved -->
