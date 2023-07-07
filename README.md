@@ -1,15 +1,11 @@
 ## 👋 Who am I
+Hey there! I'm Alex McGonigle, but you might know me as @GrannyProgramming. As a Cloud Data and AI Consultant at Microsoft, I've been in the thick of shaping our MLOps approach and creating comprehensive machine learning solutions.
 
-Alex McGonigle or @GrannyProgramming a Cloud Data and AI Consultant working across a global team @ [Microsoft](https://github.com/Microsoft)
+I've had the privilege of leading MLOps consulting for big-name Fortune-500 clients, helping Microsoft bring in about $27m in delivery value to date (as of July '23). Not too shabby, right?
 
-A seasoned professional with a focus on MLOps and relevant industry experience, I've been at the forefront of shaping Microsoft's approach to MLOps as a consultant. My expertise lies in designing and deploying comprehensive machine learning solutions, contributing significantly to Microsoft's IP, and fostering growth in Microsoft's consultant pool.
+You know how Gartner said that 80% of AI projects will feel like wizardry that doesn't scale in an organization? Well, I'm all about dispelling that magic and replacing it with something better. I focus on streamlining AI systems, reducing technical debt with Continuous Delivery (CD), and introducing new concepts like Continuous Training (CT), Monitoring, and Observability.
 
-I've been a leading consultant for MLOps on high profile customers amongst the Fortune-500 customers. Earning Microsoft to date (Jul23) ~$27m in delivery value.
-
-According to Gartner, “Through 2020, 80% of AI projects will remain alchemy, run by wizards whose talents will not scale in the organization” My purpose is bringing clarity to this "wizardry" reducing technical debt, through techniques such as Continuous Delivery (CD), while adding new concepts, such as Continuous Training (CT), Monitoring and Observability. I'm also keen on addressing fairness, explainability, scalability, performance, security, and integrity in AI systems.
-
-My passion focuses on building MLOps systems that will help companies or individuals monitor, maintain and deliver their AI promises on a consistent basis.
-
+But I'm not just interested in efficiency. I'm also passionate about fairness, explainability, and security in AI systems. My goal? To build MLOps systems that empower companies and individuals to deliver their AI promises consistently and transparently.
 
 ## Microsoft Certified
 
@@ -65,8 +61,8 @@ Say Hello, I don't bite!
 
 🙌 Thank you for visiting my profile!
 
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
-
 [![GitHub profile views](https://komarev.com/ghpvc/?username=GrannyProgramming&logo=github&style=flat-square)](https://github.com/GrannyProgramming)
 [![GitHub followers](https://img.shields.io/github/followers/GrannyProgramming?logo=github&style=flat-square)](https://github.com/GrannyProgramming)
+
+Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 
