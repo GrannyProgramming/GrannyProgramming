@@ -10,7 +10,26 @@ Alex McGonigle or @GrannyProgramming a Cloud Data and AI Consultant working acro
 
 ## 🔧 Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c) ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql) ![Spark](https://img.shields.io/badge/-Spark-333333?style=flat&logo=apache-spark)
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c) ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql) 
+
+### Infrastructure as Code (IaC)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes) ![Bicep](https://img.shields.io/badge/-Bicep-333333?style=flat&logo=Bicep) ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
+
+### Machine Learning and Data Processing
+![Azure_Machine_Learning](https://img.shields.io/badge/-AzureML-333333?style=flat&logo=azuredevops) ![Databricks](https://img.shields.io/badge/-Databricks-333333?style=flat&logo=databricks) ![MLflow](https://img.shields.io/badge/-MLflow-333333?style=flat&logo=mlflow) ![FairML](https://img.shields.io/badge/-FairML-333333?style=flat)
+
+### Version Control and CI/CD
+![Azure_DevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![DVC](https://img.shields.io/badge/-DVC-333333?style=flat) ![CML](https://img.shields.io/badge/-CML-333333?style=flat)
+
+### Data Versioning and Experiment Tracking
+![LakeFS](https://img.shields.io/badge/-LakeFS-333333?style=flat) ![Kubeflow](https://img.shields.io/badge/-Kubeflow-333333?style=flat&logo=kubeflow) ![KFserving](https://img.shields.io/badge/-KFserving-333333?style=flat)
+
+### Business Intelligence (BI) Tools
+![PowerBI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi) ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
+
+### Monitoring
+![Azure_Monitor](https://img.shields.io/badge/-Azure%20Monitor-333333?style=flat&logo=azuredevops)
 
 ## 🌱 I’m currently learning 
 
