@@ -14,7 +14,7 @@ Hi there! I'm Alex, but you might know me as @GrannyProgramming from my work as 
 #### 👨‍💻 Check out what I'm currently working on
 
 
-- [GrannyProgramming/ds-aml-mlops](https://github.com/GrannyProgramming/ds-aml-mlops) - Azure Machine Learning - MLOps Python SDKv2 (3 days ago)
+- [GrannyProgramming/AzureMLOpsInProduction](https://github.com/GrannyProgramming/AzureMLOpsInProduction) - Azure Machine Learning - MLOps Python SDKv2 (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
