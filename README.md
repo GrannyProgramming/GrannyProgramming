@@ -18,9 +18,9 @@ Hi there! I'm Alex, but you might know me as @GrannyProgramming from my work as 
 
 #### 👯 Check out some of my recent followers
 
+- [jaterson](https://github.com/jaterson)
 - [he0x](https://github.com/he0x)
 - [FaramarzKowsari](https://github.com/FaramarzKowsari)
-- [dirambora](https://github.com/dirambora)
 
 
 ## 🔧 Technologies & Tools
