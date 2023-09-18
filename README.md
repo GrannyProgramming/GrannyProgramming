@@ -14,7 +14,9 @@ Hi there! I'm Alex, but you might know me as @GrannyProgramming from my work as 
 #### 👨‍💻 Check out what I'm currently working on
 
 
-- [GrannyProgramming/AzureMLOpsInProduction](https://github.com/GrannyProgramming/AzureMLOpsInProduction) - Azure Machine Learning - MLOps Python SDKv2 (1 month ago)
+- [GrannyProgramming/SystemDesignFlashcardsGrokking](https://github.com/GrannyProgramming/SystemDesignFlashcardsGrokking) - 📚 SystemDesignFlashcards: A curated set of cards on system design principles. Covers distributed systems, design patterns, and more. Designed for architects and devs. Future foundation for an interactive flashcard app. (1 day ago)
+- [GrannyProgramming/trello-leetcoing75-scheduler](https://github.com/GrannyProgramming/trello-leetcoing75-scheduler) - Automates the process of scheduling and managing LeetCode challenges on a Trello board. This repository contains a script that organizes coding challenges by topic, difficulty, and sets due dates for each problem. Designed to streamline the study plan for the &#34;75 LeetCode Questions&#34; approach to mastering coding interviews. (2 days ago)
+- [GrannyProgramming/AzureMLOpsInProduction](https://github.com/GrannyProgramming/AzureMLOpsInProduction) - Azure Machine Learning - MLOps Python SDKv2 (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
