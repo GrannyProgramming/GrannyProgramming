@@ -1,34 +1,33 @@
-<details closed>
-<summary>## 👋 Who am I</summary>
 
-Hi there! I'm Alex, but you might know me as @GrannyProgramming from my work as a Cloud Data and AI Consultant at Microsoft. I spend my days delving into the world of MLOps and shaping AI strategies for some pretty big-name clients. I'm all about making AI transparent and efficient - no more wizardry, just solid science. I have a real soft spot for creating robust MLOps systems that tick all the right boxes: fairness, explainability, security... you name it! It's my passion to help companies deliver on their AI promises without a hitch. AI doesn't have to be mysterious magic, and I'm here to prove it!
+##👋 Who am I
+
+Hi there! I'm Alex, but you might know me as @GrannyProgramming from my work as a Cloud Data and AI Consultant at Microsoft. 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alex-mcgonigle-themlopspundit/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
+</div>
+
+<details closed>
+<summary><h2>Microsoft Certified</h2></summary>
+
+<div align="center">
+  <a href="https://www.credly.com/users/alex-mcgonigle/badges"><img src="https://images.credly.com/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" width="250"></a>
+  <a href="https://www.credly.com/users/alex-mcgonigle/badges"><img src="https://images.credly.com/size/680x680/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" width="250"></a>
+  <a href="https://www.credly.com/users/alex-mcgonigle/badges"><img src="https://images.credly.com/size/680x680/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" width="250"></a>
 </div>
 
 </details>
 
 <details closed>
-<summary>## Microsoft Certified</summary>
-
-[<img src="https://images.credly.com/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" width="250">](https://www.credly.com/users/alex-mcgonigle/badges)
-[<img src="https://images.credly.com/size/680x680/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" width="250">](https://www.credly.com/users/alex-mcgonigle/badges)
-[<img src="https://images.credly.com/size/680x680/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" width="250">](https://www.credly.com/users/alex-mcgonigle/badges)
-
-</details>
-
-<details closed>
-<summary>## 🌱 I’m currently learning</summary>
+<summary><h2>🌱 I’m currently learning</h2></summary>
 
 - All about LLM's (Large Language Models) and how to use them in production
 
 </details>
 
 <details closed>
-<summary>## 👨‍💻 Check out what I'm currently working on</summary>
+<summary><h2>👨‍💻 Check out what I'm currently working on</h2></summary>
 
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
@@ -37,7 +36,7 @@ Hi there! I'm Alex, but you might know me as @GrannyProgramming from my work as 
 </details>
 
 <details closed>
-<summary>## 👯 Check out some of my recent followers</summary>
+<summary><h2>👯 Check out some of my recent followers</h2></summary>
 
 {{range followers 3}}
 - [{{.Login}}]({{.URL}})
@@ -46,10 +45,9 @@ Hi there! I'm Alex, but you might know me as @GrannyProgramming from my work as 
 </details>
 
 <details closed>
-<summary>## 🔧 Technologies & Tools</summary>
+<summary><h2>🔧 Technologies & Tools</h2></summary>
 
-<details open>
-<summary><div align="left">Technologies & Tools</div></summary>
+<div align="center">
 
 | Category                          | Tools                                                                                                                              |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
@@ -60,10 +58,14 @@ Hi there! I'm Alex, but you might know me as @GrannyProgramming from my work as 
 | Data Versioning and Experiment Tracking | [![DVC](https://img.shields.io/badge/-DVC-333333?style=flat)](https://dvc.org/) [![CML](https://img.shields.io/badge/-CML-333333?style=flat)](https://cml.dev/) [![MLflow](https://img.shields.io/badge/-MLflow-333333?style=flat&logo=mlflow)](https://mlflow.org/) [![FairML](https://img.shields.io/badge/-FairML-333333?style=flat)](https://fairmlbook.org/), [![LakeFS](https://img.shields.io/badge/-LakeFS-333333?style=flat)](https://lakefs.io/) [![Kubeflow](https://img.shields.io/badge/-Kubeflow-333333?style=flat&logo=kubeflow)](https://www.kubeflow.org/) [![KFserving](https://img.shields.io/badge/-KFserving-333333?style=flat)](https://www.kubeflow.org/docs/components/kfserving/) |
 | Business Intelligence (BI) Tools  | [![PowerBI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi)](https://powerbi.microsoft.com/) [![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)](https://www.tableau.com/) |
 | Monitoring                        | [![Azure_Monitor](https://img.shields.io/badge/-Azure%20Monitor-333333?style=flat&logo=azuredevops)](https://azure.microsoft.com/en-us/services/monitor/) [![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)](https://prometheus.io/)  |
+</div>
+
 </details>
 
 <details closed>
-<summary>## 🧮 Some stats</summary>
+<summary><h2>🧮 Some stats</h2></summary>
+
+<div align="center">
 
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrannyProgramming&count_private=true&theme=dark&show_icons=true)](https://github.com/GrannyProgramming)
 
@@ -73,18 +75,26 @@ Hi there! I'm Alex, but you might know me as @GrannyProgramming from my work as 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GrannyProgramming&theme=dark)](https://git.io/streak-stats)
 
+</div>
+
 </details>
 
 <details closed>
-<summary>## 💬 Feedback</summary>
+<summary><h2>💬 Feedback</h2></summary>
 
 Say Hello, I don't bite!
 
-<details open>
-<summary>## 📫 How to reach me</summary>
+</details>
+
+<details closed>
+<summary><h2>📫 How to reach me</h2></summary>
+
+<div align="center">
 
 [<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="50">](https://www.linkedin.com/in/alex-mcgonigle-themlopspundit/)
 [<img src="https://github.com/GrannyProgramming.png" alt="Blog" width="50">](https://themlopspundit.com)
+
+</div>
 
 </details>
 
