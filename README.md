@@ -2,8 +2,6 @@
 
 Hi there! I'm Alex, but you might know me as @GrannyProgramming from my work as a Cloud Data and AI Consultant at Microsoft. 
 
-Ever heard of MLOps? Well, I'm not just any MLOps enthusiast. I'm the wizard 🧙‍♂️ who turns that so-called "alchemy" into pure gold. Through my magic spells, I've conjured up ~$27m in delivery value for Microsoft (as of Jul '23)! According to Gartner, 80% of AI projects by 2020 were all smoke and mirrors, but with my wand (and some serious skills), I bring transparency to the AI scene.
-
 Looking for credentials? How about 6 Azure certificates? Or my MSc in AI from the Hogwarts of the UK - St Andrews University? 😜
 
 But wait, there's more! I've tamed the dragons of MLOps, from DVC and LakeFS to the majestic Kubeflow and the mysterious InterpretML. When I'm not casting spells with Azure or building pipelines with GitHub actions, you might find me visualizing data prophecies with PowerBI or Tableau.
