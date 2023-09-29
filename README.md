@@ -1,4 +1,4 @@
-<h2>👋 Who am I</h2>
+<div align="center"><h2>👋 Who am I</h2></div>
 
 Hi there! I'm Alex, but you might know me as @GrannyProgramming from my work as a Cloud Data and AI Consultant at Microsoft. 
 
@@ -7,16 +7,11 @@ Hi there! I'm Alex, but you might know me as @GrannyProgramming from my work as 
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
 </div>
 
-<details closed>
-<summary><h2>Microsoft Certified</h2></summary>
-
 <div align="center">
   <a href="https://www.credly.com/users/alex-mcgonigle/badges"><img src="https://images.credly.com/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" width="250"></a>
   <a href="https://www.credly.com/users/alex-mcgonigle/badges"><img src="https://images.credly.com/size/680x680/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" width="250"></a>
   <a href="https://www.credly.com/users/alex-mcgonigle/badges"><img src="https://images.credly.com/size/680x680/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" width="250"></a>
 </div>
-
-</details>
 
 <details closed>
 <summary><h2>🌱 I’m currently learning</h2></summary>
