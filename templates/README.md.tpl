@@ -1,9 +1,5 @@
-<div align="center">
-
-## 👋 Who am I
-
-<details open>
-<summary><div align="left">Who am I</div></summary>
+<details closed>
+<summary>## 👋 Who am I</summary>
 
 Hi there! I'm Alex, but you might know me as @GrannyProgramming from my work as a Cloud Data and AI Consultant at Microsoft. I spend my days delving into the world of MLOps and shaping AI strategies for some pretty big-name clients. I'm all about making AI transparent and efficient - no more wizardry, just solid science. I have a real soft spot for creating robust MLOps systems that tick all the right boxes: fairness, explainability, security... you name it! It's my passion to help companies deliver on their AI promises without a hitch. AI doesn't have to be mysterious magic, and I'm here to prove it!
 
@@ -15,21 +11,24 @@ Hi there! I'm Alex, but you might know me as @GrannyProgramming from my work as 
 
 </details>
 
-## Microsoft Certified
+<details closed>
+<summary>## Microsoft Certified</summary>
 
 [<img src="https://images.credly.com/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" width="250">](https://www.credly.com/users/alex-mcgonigle/badges)
 [<img src="https://images.credly.com/size/680x680/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" width="250">](https://www.credly.com/users/alex-mcgonigle/badges)
 [<img src="https://images.credly.com/size/680x680/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" width="250">](https://www.credly.com/users/alex-mcgonigle/badges)
 
-<details open>
-<summary><div align="left">🌱 I’m currently learning</div></summary>
+</details>
+
+<details closed>
+<summary>## 🌱 I’m currently learning</summary>
 
 - All about LLM's (Large Language Models) and how to use them in production
 
 </details>
 
-<details open>
-<summary><div align="left">👨‍💻 Check out what I'm currently working on</div></summary>
+<details closed>
+<summary>## 👨‍💻 Check out what I'm currently working on</summary>
 
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
@@ -37,8 +36,8 @@ Hi there! I'm Alex, but you might know me as @GrannyProgramming from my work as 
 
 </details>
 
-<details open>
-<summary><div align="left">👯 Check out some of my recent followers</div></summary>
+<details closed>
+<summary>## 👯 Check out some of my recent followers</summary>
 
 {{range followers 3}}
 - [{{.Login}}]({{.URL}})
@@ -46,7 +45,8 @@ Hi there! I'm Alex, but you might know me as @GrannyProgramming from my work as 
 
 </details>
 
-## 🔧 Technologies & Tools
+<details closed>
+<summary>## 🔧 Technologies & Tools</summary>
 
 <details open>
 <summary><div align="left">Technologies & Tools</div></summary>
@@ -62,12 +62,8 @@ Hi there! I'm Alex, but you might know me as @GrannyProgramming from my work as 
 | Monitoring                        | [![Azure_Monitor](https://img.shields.io/badge/-Azure%20Monitor-333333?style=flat&logo=azuredevops)](https://azure.microsoft.com/en-us/services/monitor/) [![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)](https://prometheus.io/)  |
 </details>
 
-</details>
-
-## 🧮 Some stats
-
-<details open>
-<summary><div align="left">Some stats</div></summary>
+<details closed>
+<summary>## 🧮 Some stats</summary>
 
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrannyProgramming&count_private=true&theme=dark&show_icons=true)](https://github.com/GrannyProgramming)
 
@@ -79,13 +75,20 @@ Hi there! I'm Alex, but you might know me as @GrannyProgramming from my work as 
 
 </details>
 
-#### 💬 Feedback
+<details closed>
+<summary>## 💬 Feedback</summary>
+
 Say Hello, I don't bite!
 
-#### 📫 How to reach me
+<details open>
+<summary>## 📫 How to reach me</summary>
+
 [<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="50">](https://www.linkedin.com/in/alex-mcgonigle-themlopspundit/)
 [<img src="https://github.com/GrannyProgramming.png" alt="Blog" width="50">](https://themlopspundit.com)
 
+</details>
+
+<div align="center">
 🙌 Thank you for visiting my profile!
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
