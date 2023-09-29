@@ -1,4 +1,4 @@
-<div align="center"><h2>👋 Who am I</h2></div>
+<div align="center"><strong>👋 Who am I</strong></div>
 
 Hi there! I'm Alex, but you might know me as @GrannyProgramming from my work as a Cloud Data and AI Consultant at Microsoft. 
 
@@ -14,34 +14,7 @@ Hi there! I'm Alex, but you might know me as @GrannyProgramming from my work as 
 </div>
 
 <details closed>
-<summary><h2>🌱 I’m currently learning</h2></summary>
-
-- All about LLM's (Large Language Models) and how to use them in production
-
-</details>
-
-<details closed>
-<summary><h2>👨‍💻 Check out what I'm currently working on</h2></summary>
-
-
-- [GrannyProgramming/trello-leetcoing75-scheduler](https://github.com/GrannyProgramming/trello-leetcoing75-scheduler) - Automates the process of scheduling and managing LeetCode challenges on a Trello board. This repository contains a script that organizes coding challenges by topic, difficulty, and sets due dates for each problem. Designed to streamline the study plan for the &#34;75 LeetCode Questions&#34; approach to mastering coding interviews. (today)
-- [GrannyProgramming/SystemDesignFlashcardsGrokking](https://github.com/GrannyProgramming/SystemDesignFlashcardsGrokking) - 📚 SystemDesignFlashcards: A curated set of cards on system design principles. Covers distributed systems, design patterns, and more. Designed for architects and devs. Future foundation for an interactive flashcard app. (1 week ago)
-- [GrannyProgramming/AzureMLOpsInProduction](https://github.com/GrannyProgramming/AzureMLOpsInProduction) - Azure Machine Learning - MLOps Python SDKv2 (2 months ago)
-
-</details>
-
-<details closed>
-<summary><h2>👯 Check out some of my recent followers</h2></summary>
-
-
-- [jaterson](https://github.com/jaterson)
-- [he0x](https://github.com/he0x)
-- [FaramarzKowsari](https://github.com/FaramarzKowsari)
-
-</details>
-
-<details closed>
-<summary><h2>🔧 Technologies & Tools</h2></summary>
+<summary><strong>🔧 Technologies & Tools</strong></summary>
 
 <div align="center">
 
@@ -54,13 +27,29 @@ Hi there! I'm Alex, but you might know me as @GrannyProgramming from my work as 
 | Data Versioning and Experiment Tracking | [![DVC](https://img.shields.io/badge/-DVC-333333?style=flat)](https://dvc.org/) [![CML](https://img.shields.io/badge/-CML-333333?style=flat)](https://cml.dev/) [![MLflow](https://img.shields.io/badge/-MLflow-333333?style=flat&logo=mlflow)](https://mlflow.org/) [![FairML](https://img.shields.io/badge/-FairML-333333?style=flat)](https://fairmlbook.org/), [![LakeFS](https://img.shields.io/badge/-LakeFS-333333?style=flat)](https://lakefs.io/) [![Kubeflow](https://img.shields.io/badge/-Kubeflow-333333?style=flat&logo=kubeflow)](https://www.kubeflow.org/) [![KFserving](https://img.shields.io/badge/-KFserving-333333?style=flat)](https://www.kubeflow.org/docs/components/kfserving/) |
 | Business Intelligence (BI) Tools  | [![PowerBI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi)](https://powerbi.microsoft.com/) [![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)](https://www.tableau.com/) |
 | Monitoring                        | [![Azure_Monitor](https://img.shields.io/badge/-Azure%20Monitor-333333?style=flat&logo=azuredevops)](https://azure.microsoft.com/en-us/services/monitor/) [![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)](https://prometheus.io/)  |
-/div>
+</div>
 
 </details>
 
 <details closed>
-<summary><h2>🧮 Github stats</h2></summary>
+<summary><strong>🌱 I’m currently learning</strong></summary>
 
+- All about LLM's (Large Language Models) and how to use them in production
+
+</details>
+
+<details closed>
+<summary><strong>👨‍💻 Check out what I'm currently working on</strong></summary>
+
+
+- [GrannyProgramming/trello-leetcoing75-scheduler](https://github.com/GrannyProgramming/trello-leetcoing75-scheduler) - Automates the process of scheduling and managing LeetCode challenges on a Trello board. This repository contains a script that organizes coding challenges by topic, difficulty, and sets due dates for each problem. Designed to streamline the study plan for the &#34;75 LeetCode Questions&#34; approach to mastering coding interviews. (today)
+- [GrannyProgramming/SystemDesignFlashcardsGrokking](https://github.com/GrannyProgramming/SystemDesignFlashcardsGrokking) - 📚 SystemDesignFlashcards: A curated set of cards on system design principles. Covers distributed systems, design patterns, and more. Designed for architects and devs. Future foundation for an interactive flashcard app. (1 week ago)
+- [GrannyProgramming/AzureMLOpsInProduction](https://github.com/GrannyProgramming/AzureMLOpsInProduction) - Azure Machine Learning - MLOps Python SDKv2 (2 months ago)
+
+</details>
+
+<details closed>
+<summary><strong>🧮 Github stats</strong></summary>
 <div align="center">
 
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrannyProgramming&count_private=true&theme=dark&show_icons=true)](https://github.com/GrannyProgramming)
@@ -75,8 +64,17 @@ Hi there! I'm Alex, but you might know me as @GrannyProgramming from my work as 
 
 </details>
 
-<h2>📫 How to reach me</h2>
+<details closed>
+<summary><strong>👯 Check out some of my recent followers</strong></summary>
 
+
+- [jaterson](https://github.com/jaterson)
+- [he0x](https://github.com/he0x)
+- [FaramarzKowsari](https://github.com/FaramarzKowsari)
+
+</details>
+
+<div align="center"><strong>📫 How to reach me</strong></div>
 
 <div align="center">
 
@@ -85,10 +83,9 @@ Hi there! I'm Alex, but you might know me as @GrannyProgramming from my work as 
 
 </div>
 
-</details>
-
 <div align="center">
 🙌 Thank you for visiting my profile!
+
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 
