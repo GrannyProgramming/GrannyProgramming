@@ -2,77 +2,54 @@
 
 ## 👋 Who am I
 
-</div>
+<details open>
+<summary><div align="left">Who am I</div></summary>
 
-<details>
-<summary>Click to expand!</summary>
-    
 Hi there! I'm Alex, but you might know me as @GrannyProgramming from my work as a Cloud Data and AI Consultant at Microsoft. I spend my days delving into the world of MLOps and shaping AI strategies for some pretty big-name clients. I'm all about making AI transparent and efficient - no more wizardry, just solid science. I have a real soft spot for creating robust MLOps systems that tick all the right boxes: fairness, explainability, security... you name it! It's my passion to help companies deliver on their AI promises without a hitch. AI doesn't have to be mysterious magic, and I'm here to prove it!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/alex-mcgonigle-themlopspundit/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 </details>
 
-<div align="center">
-
 ## Microsoft Certified
-
-</div>
 
 [<img src="https://images.credly.com/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" width="250">](https://www.credly.com/users/alex-mcgonigle/badges)
 [<img src="https://images.credly.com/size/680x680/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" width="250">](https://www.credly.com/users/alex-mcgonigle/badges)
 [<img src="https://images.credly.com/size/680x680/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" width="250">](https://www.credly.com/users/alex-mcgonigle/badges)
 
-<div align="center">
+<details open>
+<summary><div align="left">🌱 I’m currently learning</div></summary>
 
-#### 🌱 I’m currently learning 
-
-</div>
-
-<details>
-<summary>Click to expand!</summary>
-    
 - All about LLM's (Large Language Models) and how to use them in production
 
 </details>
 
-<div align="center">
+<details open>
+<summary><div align="left">👨‍💻 Check out what I'm currently working on</div></summary>
 
-#### 👨‍💻 Check out what I'm currently working on
-
-</div>
-
-<details>
-<summary>Click to expand!</summary>
-    
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 </details>
 
-<div align="center">
+<details open>
+<summary><div align="left">👯 Check out some of my recent followers</div></summary>
 
-#### 👯 Check out some of my recent followers
-
-</div>
-
-<details>
-<summary>Click to expand!</summary>
-    
 {{range followers 3}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
 </details>
 
-<div align="center">
-
 ## 🔧 Technologies & Tools
 
-</div>
-
-<details>
-<summary>Click to expand!</summary>
-
+<details open>
+<summary><div align="left">Technologies & Tools</div></summary>
 
 | Category                          | Tools                                                                                                                              |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
@@ -85,14 +62,12 @@ Hi there! I'm Alex, but you might know me as @GrannyProgramming from my work as 
 | Monitoring                        | [![Azure_Monitor](https://img.shields.io/badge/-Azure%20Monitor-333333?style=flat&logo=azuredevops)](https://azure.microsoft.com/en-us/services/monitor/) [![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)](https://prometheus.io/)  |
 </details>
 
-<div align="center">
+</details>
 
 ## 🧮 Some stats
 
-</div>
-
-<details>
-<summary>Click to expand!</summary>
+<details open>
+<summary><div align="left">Some stats</div></summary>
 
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrannyProgramming&count_private=true&theme=dark&show_icons=true)](https://github.com/GrannyProgramming)
 
@@ -104,16 +79,12 @@ Hi there! I'm Alex, but you might know me as @GrannyProgramming from my work as 
 
 </details>
 
-<div align="center">
-
 #### 💬 Feedback
 Say Hello, I don't bite!
 
 #### 📫 How to reach me
-[<img src="URL_OF_LINKEDIN_IMAGE" alt="LinkedIn" width="50">](https://www.linkedin.com/in/alex-mcgonigle-themlopspundit/)
+[<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="50">](https://www.linkedin.com/in/alex-mcgonigle-themlopspundit/)
 [<img src="https://github.com/GrannyProgramming.png" alt="Blog" width="50">](https://themlopspundit.com)
-
-
 
 🙌 Thank you for visiting my profile!
 
@@ -122,3 +93,5 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 [![GitHub profile views](https://komarev.com/ghpvc/?username=GrannyProgramming&logo=github&style=flat-square)](https://github.com/GrannyProgramming)
 [![GitHub followers](https://img.shields.io/github/followers/GrannyProgramming?logo=github&style=flat-square)](https://github.com/GrannyProgramming)
 <!-- comments will be preserved -->
+
+</div>
