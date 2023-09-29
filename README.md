@@ -1,5 +1,4 @@
-
-##👋 Who am I
+<h2>👋 Who am I</h2>
 
 Hi there! I'm Alex, but you might know me as @GrannyProgramming from my work as a Cloud Data and AI Consultant at Microsoft. 
 
@@ -60,36 +59,29 @@ Hi there! I'm Alex, but you might know me as @GrannyProgramming from my work as 
 | Data Versioning and Experiment Tracking | [![DVC](https://img.shields.io/badge/-DVC-333333?style=flat)](https://dvc.org/) [![CML](https://img.shields.io/badge/-CML-333333?style=flat)](https://cml.dev/) [![MLflow](https://img.shields.io/badge/-MLflow-333333?style=flat&logo=mlflow)](https://mlflow.org/) [![FairML](https://img.shields.io/badge/-FairML-333333?style=flat)](https://fairmlbook.org/), [![LakeFS](https://img.shields.io/badge/-LakeFS-333333?style=flat)](https://lakefs.io/) [![Kubeflow](https://img.shields.io/badge/-Kubeflow-333333?style=flat&logo=kubeflow)](https://www.kubeflow.org/) [![KFserving](https://img.shields.io/badge/-KFserving-333333?style=flat)](https://www.kubeflow.org/docs/components/kfserving/) |
 | Business Intelligence (BI) Tools  | [![PowerBI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi)](https://powerbi.microsoft.com/) [![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)](https://www.tableau.com/) |
 | Monitoring                        | [![Azure_Monitor](https://img.shields.io/badge/-Azure%20Monitor-333333?style=flat&logo=azuredevops)](https://azure.microsoft.com/en-us/services/monitor/) [![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)](https://prometheus.io/)  |
-</div>
+/div>
 
 </details>
 
 <details closed>
-<summary><h2>🧮 Some stats</h2></summary>
+<summary><h2>🧮 Github stats</h2></summary>
 
 <div align="center">
 
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrannyProgramming&count_private=true&theme=dark&show_icons=true)](https://github.com/GrannyProgramming)
 
-[![GrannyProgramming's Trophy](https://github-profile-trophy.vercel.app/?username=GrannyProgramming&theme=onedark)](https://github.com/GrannyProgramming)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GrannyProgramming&theme=dark)](https://git.io/streak-stats)
 
 [![GrannyProgramming's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrannyProgramming&langs_count=10&theme=dark&layout=compact)](https://github.com/GrannyProgramming)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GrannyProgramming&theme=dark)](https://git.io/streak-stats)
+[![GrannyProgramming's Trophy](https://github-profile-trophy.vercel.app/?username=GrannyProgramming&theme=onedark)](https://github.com/GrannyProgramming)
 
 </div>
 
 </details>
 
-<details closed>
-<summary><h2>💬 Feedback</h2></summary>
+<h2>📫 How to reach me</h2>
 
-Say Hello, I don't bite!
-
-</details>
-
-<details closed>
-<summary><h2>📫 How to reach me</h2></summary>
 
 <div align="center">
 
