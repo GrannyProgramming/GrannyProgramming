@@ -48,8 +48,8 @@ In a nutshell, I'm here to make AI less "🔮" and more "💡". Dive into my rep
 <summary><strong>👨‍💻 Check out what I'm currently working on</strong></summary>
 
 
-- [GrannyProgramming/trello-leetcoing75-scheduler](https://github.com/GrannyProgramming/trello-leetcoing75-scheduler) - Automates the process of scheduling and managing LeetCode challenges on a Trello board. This repository contains a script that organizes coding challenges by topic, difficulty, and sets due dates for each problem. Designed to streamline the study plan for the &#34;75 LeetCode Questions&#34; approach to mastering coding interviews. (1 week ago)
-- [GrannyProgramming/SystemDesignFlashcardsGrokking](https://github.com/GrannyProgramming/SystemDesignFlashcardsGrokking) - 📚 SystemDesignFlashcards: A curated set of cards on system design principles. Covers distributed systems, design patterns, and more. Designed for architects and devs. Future foundation for an interactive flashcard app. (3 weeks ago)
+- [GrannyProgramming/trello-leetcoing75-scheduler](https://github.com/GrannyProgramming/trello-leetcoing75-scheduler) - Automates the process of scheduling and managing LeetCode challenges on a Trello board. This repository contains a script that organizes coding challenges by topic, difficulty, and sets due dates for each problem. Designed to streamline the study plan for the &#34;75 LeetCode Questions&#34; approach to mastering coding interviews. (2 weeks ago)
+- [GrannyProgramming/SystemDesignFlashcardsGrokking](https://github.com/GrannyProgramming/SystemDesignFlashcardsGrokking) - 📚 SystemDesignFlashcards: A curated set of cards on system design principles. Covers distributed systems, design patterns, and more. Designed for architects and devs. Future foundation for an interactive flashcard app. (4 weeks ago)
 - [GrannyProgramming/AzureMLOpsInProduction](https://github.com/GrannyProgramming/AzureMLOpsInProduction) - Azure Machine Learning - MLOps Python SDKv2 (2 months ago)
 
 </details>
