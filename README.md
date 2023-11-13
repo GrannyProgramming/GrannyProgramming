@@ -74,9 +74,9 @@ In a nutshell, I'm here to make AI less "🔮" and more "💡". Dive into my rep
 <summary><strong>👯 Check out some of my recent followers</strong></summary>
 
 
+- [Tulu-Ragot](https://github.com/Tulu-Ragot)
 - [jaterson](https://github.com/jaterson)
 - [he0x](https://github.com/he0x)
-- [FaramarzKowsari](https://github.com/FaramarzKowsari)
 
 </details>
 
