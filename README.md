@@ -49,7 +49,6 @@ In a nutshell, I'm here to make AI less "🔮" and more "💡". Dive into my rep
 
 
 - [GrannyProgramming/mslearn-mlops-](https://github.com/GrannyProgramming/mslearn-mlops-) -  (5 months ago)
-- [GrannyProgramming/trello-leetcoing75-scheduler](https://github.com/GrannyProgramming/trello-leetcoing75-scheduler) - Automates the process of scheduling and managing LeetCode challenges on a Trello board. This repository contains a script that organizes coding challenges by topic, difficulty, and sets due dates for each problem. Designed to streamline the study plan for the &#34;75 LeetCode Questions&#34; approach to mastering coding interviews. (1 year ago)
 
 </details>
 
