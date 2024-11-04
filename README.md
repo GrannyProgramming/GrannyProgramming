@@ -48,7 +48,7 @@ In a nutshell, I'm here to make AI less "🔮" and more "💡". Dive into my rep
 <summary><strong>👨‍💻 Check out what I'm currently working on</strong></summary>
 
 
-- [GrannyProgramming/mslearn-mlops-](https://github.com/GrannyProgramming/mslearn-mlops-) -  (5 months ago)
+- [GrannyProgramming/mslearn-mlops-](https://github.com/GrannyProgramming/mslearn-mlops-) -  (6 months ago)
 
 </details>
 
