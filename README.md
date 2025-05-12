@@ -49,7 +49,6 @@ In a nutshell, I'm here to make AI less "🔮" and more "💡". Dive into my rep
 
 
 - [GrannyProgramming/cycle_sniper](https://github.com/GrannyProgramming/cycle_sniper) -  (3 days ago)
-- [GrannyProgramming/mslearn-mlops-](https://github.com/GrannyProgramming/mslearn-mlops-) -  (1 year ago)
 
 </details>
 
