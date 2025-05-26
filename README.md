@@ -48,7 +48,8 @@ In a nutshell, I'm here to make AI less "🔮" and more "💡". Dive into my rep
 <summary><strong>👨‍💻 Check out what I'm currently working on</strong></summary>
 
 
-- [GrannyProgramming/cycle_sniper](https://github.com/GrannyProgramming/cycle_sniper) -  (1 week ago)
+- [GrannyProgramming/multi-agent-llm-novel-creation](https://github.com/GrannyProgramming/multi-agent-llm-novel-creation) - A multi-agent system for collaborative novel creation using a single shared LLM instance (1 week ago)
+- [GrannyProgramming/cycle_sniper](https://github.com/GrannyProgramming/cycle_sniper) -  (2 weeks ago)
 
 </details>
 
