@@ -48,8 +48,9 @@ In a nutshell, I'm here to make AI less "🔮" and more "💡". Dive into my rep
 <summary><strong>👨‍💻 Check out what I'm currently working on</strong></summary>
 
 
-- [GrannyProgramming/multi-agent-llm-novel-creation](https://github.com/GrannyProgramming/multi-agent-llm-novel-creation) - A multi-agent system for collaborative novel creation using a single shared LLM instance (1 week ago)
-- [GrannyProgramming/cycle_sniper](https://github.com/GrannyProgramming/cycle_sniper) -  (2 weeks ago)
+- [GrannyProgramming/github-copilot-instruction-driven-development](https://github.com/GrannyProgramming/github-copilot-instruction-driven-development) - A systematic approach to building software products using GitHub Copilot with instruction-driven development workflows in VS Code (4 days ago)
+- [GrannyProgramming/multi-agent-llm-novel-creation](https://github.com/GrannyProgramming/multi-agent-llm-novel-creation) - A multi-agent system for collaborative novel creation using a single shared LLM instance (2 weeks ago)
+- [GrannyProgramming/cycle_sniper](https://github.com/GrannyProgramming/cycle_sniper) -  (3 weeks ago)
 
 </details>
 
