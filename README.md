@@ -48,9 +48,10 @@ In a nutshell, I'm here to make AI less "🔮" and more "💡". Dive into my rep
 <summary><strong>👨‍💻 Check out what I'm currently working on</strong></summary>
 
 
-- [GrannyProgramming/personal_interview_sys](https://github.com/GrannyProgramming/personal_interview_sys) - Personal Interview Preparation System - Comprehensive practice and preparation tool (3 days ago)
-- [GrannyProgramming/github-copilot-instruction-driven-development](https://github.com/GrannyProgramming/github-copilot-instruction-driven-development) - A systematic approach to building software products using GitHub Copilot with instruction-driven development workflows in VS Code (2 weeks ago)
-- [GrannyProgramming/multi-agent-llm-novel-creation](https://github.com/GrannyProgramming/multi-agent-llm-novel-creation) - A multi-agent system for collaborative novel creation using a single shared LLM instance (4 weeks ago)
+- [GrannyProgramming/remnote-flashcard-generator](https://github.com/GrannyProgramming/remnote-flashcard-generator) - 🧠 AI-powered flashcard generator for RemNote. Transform YAML content into optimized spaced repetition cards using LLM technology. Supports multiple card types, hierarchical structure, and RemNote-native formatting. (1 day ago)
+- [GrannyProgramming/personal_interview_sys](https://github.com/GrannyProgramming/personal_interview_sys) - Personal Interview Preparation System - Comprehensive practice and preparation tool (1 week ago)
+- [GrannyProgramming/github-copilot-instruction-driven-development](https://github.com/GrannyProgramming/github-copilot-instruction-driven-development) - A systematic approach to building software products using GitHub Copilot with instruction-driven development workflows in VS Code (3 weeks ago)
+- [GrannyProgramming/multi-agent-llm-novel-creation](https://github.com/GrannyProgramming/multi-agent-llm-novel-creation) - A multi-agent system for collaborative novel creation using a single shared LLM instance (1 month ago)
 - [GrannyProgramming/cycle_sniper](https://github.com/GrannyProgramming/cycle_sniper) -  (1 month ago)
 
 </details>
@@ -75,9 +76,9 @@ In a nutshell, I'm here to make AI less "🔮" and more "💡". Dive into my rep
 <summary><strong>👯 Check out some of my recent followers</strong></summary>
 
 
+- [filedonkey](https://github.com/filedonkey)
 - [KunalWadhai](https://github.com/KunalWadhai)
 - [Tulu-Ragot](https://github.com/Tulu-Ragot)
-- [jaterson](https://github.com/jaterson)
 
 </details>
 
