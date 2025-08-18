@@ -49,9 +49,9 @@ In a nutshell, I'm here to make AI less "🔮" and more "💡". Dive into my rep
 
 
 - [GrannyProgramming/remnote-flashcard-generator](https://github.com/GrannyProgramming/remnote-flashcard-generator) - 🧠 AI-powered flashcard generator for RemNote. Transform YAML content into optimized spaced repetition cards using LLM technology. Supports multiple card types, hierarchical structure, and RemNote-native formatting. (1 month ago)
-- [GrannyProgramming/personal_interview_sys](https://github.com/GrannyProgramming/personal_interview_sys) - Personal Interview Preparation System - Comprehensive practice and preparation tool (1 month ago)
+- [GrannyProgramming/personal_interview_sys](https://github.com/GrannyProgramming/personal_interview_sys) - Personal Interview Preparation System - Comprehensive practice and preparation tool (2 months ago)
 - [GrannyProgramming/github-copilot-instruction-driven-development](https://github.com/GrannyProgramming/github-copilot-instruction-driven-development) - A systematic approach to building software products using GitHub Copilot with instruction-driven development workflows in VS Code (2 months ago)
-- [GrannyProgramming/multi-agent-llm-novel-creation](https://github.com/GrannyProgramming/multi-agent-llm-novel-creation) - A multi-agent system for collaborative novel creation using a single shared LLM instance (2 months ago)
+- [GrannyProgramming/multi-agent-llm-novel-creation](https://github.com/GrannyProgramming/multi-agent-llm-novel-creation) - A multi-agent system for collaborative novel creation using a single shared LLM instance (3 months ago)
 - [GrannyProgramming/cycle_sniper](https://github.com/GrannyProgramming/cycle_sniper) -  (3 months ago)
 
 </details>
