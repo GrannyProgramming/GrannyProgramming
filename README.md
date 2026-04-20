@@ -17,7 +17,7 @@ I build production ML systems — feature stores, training pipelines, model serv
 ### Recent Activity
 
 
-- [GrannyProgramming/remnote-flashcard-generator](https://github.com/GrannyProgramming/remnote-flashcard-generator) — 🧠 AI-powered flashcard generator for RemNote. Transform YAML content into optimized spaced repetition cards using LLM technology. Supports multiple card types, hierarchical structure, and RemNote-native formatting. (9 months ago)
+- [GrannyProgramming/remnote-flashcard-generator](https://github.com/GrannyProgramming/remnote-flashcard-generator) — 🧠 AI-powered flashcard generator for RemNote. Transform YAML content into optimized spaced repetition cards using LLM technology. Supports multiple card types, hierarchical structure, and RemNote-native formatting. (10 months ago)
 
 ---
 
